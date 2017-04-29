@@ -746,7 +746,7 @@ section {
    2.4 SECTION: VIDEO
 -----------------------------------------*/
 .video-play {
-  background: url("../images/backgrounds/2.jpg") top no-repeat;
+  background: url("../images/backgrounds/furniture.jpg") top no-repeat;
   background-size: cover;
 }
 .video-play .color-overlay {
