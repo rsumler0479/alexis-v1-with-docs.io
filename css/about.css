@@ -63,14 +63,15 @@
 }
 
 .hero-careers > .container {
-        width:560px;
-	height:590px;
+        width:1280px;
+	height:1290px;
 	padding-top: 30px;
 	padding-bottom: 185px;
 
 	background: url("../images/annie-spratt-89768.jpg") ;
 	background-size: cover;
 	background-repeat: no-repeat;
+	background-position: 50% 50%;
 }
 
 
