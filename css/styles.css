@@ -622,7 +622,7 @@ section {
    2.1 SECTION: HOME PAGE
 -----------------------------------------*/
 .home {
-  background: url(../images/backgrounds/bathroom-2094716_1920.jpg) no-repeat top;
+  background: url("../images/backgrounds/bathroom-2094716_1920.jpg") no-repeat top;
   background-size: cover;
 }
 .home .color-overlay {
